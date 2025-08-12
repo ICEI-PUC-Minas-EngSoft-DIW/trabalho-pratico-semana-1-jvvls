@@ -2,17 +2,18 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: João Victor Vial Leite Soares
+Matricula: 774152
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print do youtube](printHTTP.png)
 
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
-
+![Print do projeto](images/site.png)
 
 ## Orientações sobre Linguagem MarkDown
 
