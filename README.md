@@ -8,7 +8,7 @@ Matricula: 774152
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
-![Print do youtube](images/printYt.pngprintYt.png)
+![Print do youtube](images/printYt.png)
 
 ## Tela de projeto no Replit
 
